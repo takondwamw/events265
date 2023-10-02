@@ -1,0 +1,10 @@
+{
+	"/(app)": [],
+	"/": [],
+	"/event-register": [
+		"src/routes/event-register/+page.server.js",
+		"src/routes/event-register/+layout.js",
+		"src/routes/event-register/+layout.js"
+	],
+	"/(app)/home": []
+}
